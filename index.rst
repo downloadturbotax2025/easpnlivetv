@@ -10,7 +10,7 @@ How to Activate ESPN on Any Device: Step-by-Step Guide
    :align: center
    :height: 100px
 
-.. image:: Enter_Product_Key.png
+.. image:: ACTIVATE NOW.png
    :width: 350px
    :align: center
    :height: 100px
